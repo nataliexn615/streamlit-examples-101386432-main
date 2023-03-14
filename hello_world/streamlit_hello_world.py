@@ -18,8 +18,8 @@ ref
 https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-using-word2vec-bilstm
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
+#from google.colab import drive
+#drive.mount('/content/drive')
 
 """# Import Library"""
 
